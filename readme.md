@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-Hello 
+this is written in bug branch
+
 =======
 # This is new git course 
 Helle Everyone !!
